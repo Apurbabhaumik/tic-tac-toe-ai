@@ -25,7 +25,7 @@
 
 ## 🔥 Live Demo
 
-🎮 [Click here to play the AI online!](https://Apurbabhaumik.github.io/tic-tac-toe-ai/)  
+🎮 [Click here to play the AI online!](https://apurbabhaumik.github.io/tic-tac-toe-ai/)  
 _(Deployed with GitHub Pages — fast, free & flawless.)_
 
 ---
